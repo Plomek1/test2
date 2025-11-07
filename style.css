@@ -1,0 +1,10 @@
+#imagestitle {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+img {
+    width: 200px;
+    height: 200px;
+    gap: 1cm;
+    border-style: solid;
+}
