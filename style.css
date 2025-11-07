@@ -1,0 +1,16 @@
+.data-h1
+{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+.data-table, .data-table td, .data-table th
+{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.data-table th
+{
+    background-color: black;
+    color: white;
+}
