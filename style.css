@@ -1,0 +1,26 @@
+menu {
+    text-align: center;
+}
+#maintitle {
+    text-align: center;
+    color: green;
+}
+#maintext {
+    width: 100%;
+    text-align: justify;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+#flexcontainer {
+    display: flex;
+
+}
+@media (max-width: 800px){
+#flexcontainer
+{
+ flex-direction: column;   
+}
+}
+.linkcolor:hover{
+    background-color: blue;
+}
