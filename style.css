@@ -23,4 +23,30 @@ menu {
 }
 .linkcolor:hover{
     background-color: blue;
+.form-site h1
+.data-h1
+{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+.form-site input
+{
+    background-color: blue;
+}
+
+.form-site button
+{
+    margin-left: 0;
+    margin-right: 1cm;
+    background-color: orange;
+.data-table, .data-table td, .data-table th
+{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.data-table th
+{
+    background-color: black;
+    color: white;
 }
